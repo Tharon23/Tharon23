@@ -11,7 +11,7 @@ Cześć! Nazywam się Kamil, a to jest moje miejsce, gdzie dzielę się swoimi p
 ---
 
 ## Moje statystyki 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojaNazwa&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharon23&show_icons=true&theme=radical)
 
 ---
 
