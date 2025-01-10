@@ -15,6 +15,10 @@ Cześć! Nazywam się Kamil, a to jest moje miejsce, gdzie dzielę się swoimi p
 
 ---
 
+## Moja strona!
+Zapraszam do zapoznania się z moją stroną: [Moja Strona](https://Tharon23.github.io)
+
+
 ## Projekty 🛠️
 - [Projekt 1: Gra Doodle Jump](https://github.com/2024-2025-AGH-Wstep-do-Informatyki/trzybit)
 
