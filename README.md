@@ -27,7 +27,7 @@ Zapraszam do zapoznania się z moją stroną: [Moja Strona](https://Tharon23.git
 ## Fork i artykuł powiązany
 
 Zainteresował mnie artykuł na temat tworzenia oprogramowania AI:
-- Artykuł: [OpenHands](https://paperswithcode.com/paper/ai-in-medical-imaging](https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software))  
+- Artykuł: [OpenHands](https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software)  
 - Fork repozytorium: [OpenHands](https://github.com/Tharon23/OpenHands)
 
 Dziękuję za odwiedziny! 😊
