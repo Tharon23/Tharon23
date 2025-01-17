@@ -28,6 +28,6 @@ Zapraszam do zapoznania się z moją stroną: [Moja Strona](https://Tharon23.git
 
 Zainteresował mnie artykuł na temat uczenia maszynowego w analizie obrazów medycznych:
 - Artykuł: [AI in Medical Imaging](https://paperswithcode.com/paper/ai-in-medical-imaging)  
-- Fork repozytorium: [Moje repozytorium](https://github.com/Tharon23/forked-repo)
+- Fork repozytorium: [Moje repozytorium](https://github.com/Tharon23/OpenHands)
 
 Dziękuję za odwiedziny! 😊
