@@ -1,33 +1,39 @@
-# Witaj na moim profilu! 👋
+# Cześć, nazywam się Kamil! 👋
 
-## O mnie 🌟
-Cześć! Nazywam się Kamil, a to jest moje miejsce, gdzie dzielę się swoimi projektami, pasjami i kodem. 🎉
-
-- 🔭 Obecnie pracuję nad: [Projekt Doodle Jump](https://github.com/2024-2025-AGH-Wstep-do-Informatyki/trzybit)
-- 🌱 Uczę się: **Python**, **C**, **Linux**, **Cisco**
-- 📫 Możesz się ze mną skontaktować: [kamil.szkarlat@gmail.com]
-- ⚡ Fun fact: Uwielbiam piłkę nożną i programować! 🎮
+Jestem studentem II roku **Cyberbezpieczeństwa** na **Akademii Górniczo-Hutniczej** w Krakowie. Interesuje się pentestingiem, kryptografią oraz sieciami komputerowymi. W ramach studiów pracuję nad kilkoma projektami oraz biorę udział w zawodach CTF.
 
 ---
 
-## Moje statystyki 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharon23&show_icons=true&theme=radical)
+### 👨‍💻 O mnie
+
+* 🎓 **Edukacja** - Uzyskałem tytuł technika teleinformatyka, a obecnie studiuję Cyberbezpieczeństwo na AGH
+* 🛡️ **Specjalizacje** - Pentesting aplikacji webowych, Informatyka Śledcza, Kryptografia, Sieci (CISCO)
+* 🔥 **TryHackMe** - Penetration Tester path (In progress) | streak: >250 dni | Mój profil 👉 [ZOBACZ TUTAJ](https://tryhackme.com/p/Tharon)
 
 ---
 
-## Moja strona!
-Zapraszam do zapoznania się z moją stroną: [Moja Strona](https://Tharon23.github.io)
+### 🔭 Nad czym aktualnie pracuję?
 
+W ramach studiów i rozwoju własnych zainteresowań pracuję aktualnie nad kilkoma projektami:
 
-## Projekty 🛠️
-- [Projekt 1: Gra Doodle Jump](https://github.com/2024-2025-AGH-Wstep-do-Informatyki/trzybit)
+* 🗄️ **Projekt z Baz Danych** - Baza Danych stworzona w ramach przedmiotu Bazy Danych na studiach. [ZOBACZ TUTAJ](https://github.com/Tharon23/Bazy-Danych-Projekt)
+* 🔐 **Kryptografia - atak MinRank** – Badania nad wykorzystaniem ataku MinRank na *3wise* w celu przesyłania poufnych informacji bez tradycyjnej wymiany kluczy (Work in Progress).
+* 🚩 **Własny CTF** – Tworzenie autorskiego challenge'u Capture The Flag z zakresu bezpieczeństwa aplikacji webowych i mobilnych.
+* 🛡️ **miniSIEM** – Budowa prostego systemu SIEM (Security Information and Event Management) przy użyciu JS i HTML do monitorowania zdarzeń.
+* 🔍 **Informatyka Śledcza** – Analiza artefaktów z obrazu dysku w wyzwaniu *"AfricanFalls"* (Cyber Defenders).
 
 ---
 
-## Fork i artykuł powiązany
+### ⚡ Zainteresowania
 
-Zainteresował mnie artykuł na temat tworzenia oprogramowania AI:
-- Artykuł: [OpenHands](https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software)  
-- Fork repozytorium: [OpenHands](https://github.com/Tharon23/OpenHands)
+* 🏎️ **Formuła 1**
+* 🎯 **Dart**
+* ⚽ **Piłka nożna**
 
-Dziękuję za odwiedziny! 😊
+--- 
+
+<div align="center">
+  <a href="mailto:kamil.szkarlat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
