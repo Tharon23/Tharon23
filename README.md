@@ -1,6 +1,6 @@
 # Cześć, nazywam się Kamil! 👋
 
-Jestem studentem II roku **Cyberbezpieczeństwa** na **Akademii Górniczo-Hutniczej** w Krakowie. Interesuje się pentestingiem, kryptografią oraz sieciami komputerowymi. W ramach studiów pracuję nad kilkoma projektami oraz biorę udział w zawodach CTF.
+Jestem studentem II roku **Cyberbezpieczeństwa** na **Akademii Górniczo-Hutniczej** w Krakowie. Interesuje się pentestingiem, kryptografią oraz sieciami komputerowymi. W ramach studiów pracuję nad kilkoma projektami. W wolnej chwili lubię brać udział w zawodach CTF.
 
 ---
 
