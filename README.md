@@ -17,7 +17,7 @@ Jestem studentem II roku **Cyberbezpieczeństwa** na **Akademii Górniczo-Hutnic
 W ramach studiów i rozwoju własnych zainteresowań pracuję aktualnie nad kilkoma projektami:
 
 * 🗄️ **Projekt z Baz Danych** - Baza Danych stworzona w ramach przedmiotu Bazy Danych na studiach. [ZOBACZ TUTAJ](https://github.com/Tharon23/Bazy-Danych-Projekt)
-* 🔐 **Kryptografia - atak MinRank** – Badania nad wykorzystaniem ataku MinRank na *3wise* w celu przesyłania poufnych informacji bez tradycyjnej wymiany kluczy (Work in Progress).
+* 🔐 **Kryptografia - atak MinRank na 3WISE** – Kryptoanaliza systemu *3wise* oraz wykorzystanie ataku MinRank do złamania systemu. [ZOBACZ TUTAJ](https://github.com/pawelorenc/Kryptosystem-3WISE).
 * 🚩 **Własny CTF** – Tworzenie autorskiego challenge'u Capture The Flag z zakresu bezpieczeństwa aplikacji webowych i mobilnych (Work in Progress).
 * 🛡️ **miniSIEM** – Budowa prostego systemu SIEM (Security Information and Event Management) przy użyciu Flask do monitorowania zdarzeń. [ZOBACZ TUTAJ](https://github.com/Tharon23/miniSIEM-Flask)
 * 🔍 **Informatyka Śledcza** – Analiza artefaktów z obrazu dysku w wyzwaniu *"AfricanFalls"* (Cyber Defenders). [ZOBACZ TUTAJ](https://github.com/Tharon23/AfricanFalls-walkthrough)
