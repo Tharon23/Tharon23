@@ -18,7 +18,7 @@ W ramach studiów i rozwoju własnych zainteresowań pracuję aktualnie nad kilk
 
 * 🗄️ **Projekt z Baz Danych** - Baza Danych stworzona w ramach przedmiotu Bazy Danych na studiach. [ZOBACZ TUTAJ](https://github.com/Tharon23/Bazy-Danych-Projekt)
 * 🔐 **Kryptografia - atak MinRank na 3WISE** – Kryptoanaliza systemu *3wise* oraz wykorzystanie ataku MinRank do złamania systemu. [ZOBACZ TUTAJ](https://github.com/pawelorenc/Kryptosystem-3WISE).
-* 🚩 **Własny CTF** – Tworzenie autorskiego challenge'u Capture The Flag z zakresu bezpieczeństwa aplikacji webowych i mobilnych (Work in Progress).
+* 🚩 **Własny CTF** – Tworzenie autorskiego challenge'u Capture The Flag z zakresu bezpieczeństwa aplikacji webowych i mobilnych [ZOBACZ TUTAJ](https://github.com/pawelorenc/BAIM_PROJECT).
 * 🛡️ **miniSIEM** – Budowa prostego systemu SIEM (Security Information and Event Management) przy użyciu Flask do monitorowania zdarzeń. [ZOBACZ TUTAJ](https://github.com/Tharon23/miniSIEM-Flask)
 * 🔍 **Informatyka Śledcza** – Analiza artefaktów z obrazu dysku w wyzwaniu *"AfricanFalls"* (Cyber Defenders). [ZOBACZ TUTAJ](https://github.com/Tharon23/AfricanFalls-walkthrough)
 
