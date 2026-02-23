@@ -1,35 +1,39 @@
-# Cześć, nazywam się Kamil! 👋
+<h1 align="center">Hi there, I'm Kamil! 👋</h1>
 
-Jestem studentem II roku **Cyberbezpieczeństwa** na **Akademii Górniczo-Hutniczej** w Krakowie. Interesuje się pentestingiem, kryptografią oraz sieciami komputerowymi. W ramach studiów pracuję nad kilkoma projektami. W wolnej chwili lubię brać udział w zawodach CTF.
+<div align="center">
+  <a href="https://github.com/Tharon23">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Web+Pentesting+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
----
-
-### 👨‍💻 O mnie
-
-* 🎓 **Edukacja** - Uzyskałem tytuł technika teleinformatyka, a obecnie studiuję Cyberbezpieczeństwo na AGH
-* 🛡️ **Specjalizacje** - Pentesting aplikacji webowych, Informatyka Śledcza, Kryptografia, Sieci (CISCO)
-* 🔥 **TryHackMe** - Penetration Tester path (In progress) | streak: >250 dni | Mój profil 👉 [ZOBACZ TUTAJ](https://tryhackme.com/p/Tharon)
-
----
-
-### 🔭 Nad czym aktualnie pracuję?
-
-W ramach studiów i rozwoju własnych zainteresowań pracuję aktualnie nad kilkoma projektami:
-
-* 🗄️ **Projekt z Baz Danych** - Baza Danych stworzona w ramach przedmiotu Bazy Danych na studiach. [ZOBACZ TUTAJ](https://github.com/Tharon23/Bazy-Danych-Projekt)
-* 🔐 **Kryptografia - atak MinRank na 3WISE** – Kryptoanaliza systemu *3wise* oraz wykorzystanie ataku MinRank do złamania systemu. [ZOBACZ TUTAJ](https://github.com/pawelorenc/Kryptosystem-3WISE).
-* 🛡️ **miniSIEM** – Budowa prostego systemu SIEM (Security Information and Event Management) przy użyciu Flask do monitorowania zdarzeń. [ZOBACZ TUTAJ](https://github.com/Tharon23/miniSIEM-Flask)
-* 🔍 **Informatyka Śledcza** – Analiza artefaktów z obrazu dysku w wyzwaniu *"AfricanFalls"* (Cyber Defenders). [ZOBACZ TUTAJ](https://github.com/Tharon23/AfricanFalls-walkthrough)
+<p align="center">
+  🎓 2nd-year Cybersecurity Student | 🛡️ Web App Pentesting and Red Teaming | 🚩 CTF Competitor
+</p>
 
 ---
 
-### ⚡ Zainteresowania
+<div align="center">
+  <h3>🔥 My TryHackMe Stats</h3>
+  <a href="https://tryhackme.com/p/Tharon">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Tharon.png" alt="TryHackMe Badge" />
+  </a>
+</div>
 
-* 🏎️ **Formuła 1**
-* 🎯 **Dart**
-* ⚽ **Piłka nożna**
+---
 
---- 
+### 🔭 My Projects
+
+* 🔐 **[Kryptosystem 3WISE](https://github.com/pawelorenc/Kryptosystem-3WISE)** – Cryptanalysis and implementation of the MinRank attack to break the system.
+* 🛡️ **[miniSIEM](https://github.com/Tharon23/miniSIEM-Flask)** – A lightweight Security Information and Event Management system built with Flask.
+* 🔍 **[AfricanFalls Walkthrough](https://github.com/Tharon23/AfricanFalls-walkthrough)** – Digital Forensics artifact analysis for a Cyber Defenders challenge.
+* 🗄️ **[Database Project](https://github.com/Tharon23/Bazy-Danych-Projekt)** – Academic database design and implementation.
+
+---
+
+### ⚡ Beyond the Keyboard
+`🏎️ Formula 1` `🎯 Darts` `⚽ Football`
+
+<br>
 
 <div align="center">
   <a href="mailto:kamil.szkarlat@gmail.com">
