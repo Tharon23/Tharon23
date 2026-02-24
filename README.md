@@ -23,20 +23,9 @@
 
 ### 🔭 My Projects
 
-* 🔐 **[Kryptosystem 3WISE](https://github.com/pawelorenc/Kryptosystem-3WISE)** – Cryptanalysis and implementation of the MinRank attack to break the system.
+* 🔐 **[Cryptosystem 3WISE](https://github.com/pawelorenc/Kryptosystem-3WISE)** – Cryptanalysis and implementation of the MinRank attack to break the system.
 * 🛡️ **[miniSIEM](https://github.com/Tharon23/miniSIEM-Flask)** – A lightweight Security Information and Event Management system built with Flask.
 * 🔍 **[AfricanFalls Walkthrough](https://github.com/Tharon23/AfricanFalls-walkthrough)** – Digital Forensics artifact analysis for a Cyber Defenders challenge.
 * 🗄️ **[Database Project](https://github.com/Tharon23/Bazy-Danych-Projekt)** – Academic database design and implementation.
 
 ---
-
-### ⚡ Beyond the Keyboard
-`🏎️ Formula 1` `🎯 Darts` `⚽ Football`
-
-<br>
-
-<div align="center">
-  <a href="mailto:kamil.szkarlat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
