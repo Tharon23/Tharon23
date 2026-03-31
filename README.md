@@ -15,7 +15,7 @@
 <div align="center">
   <h3>🔥 My TryHackMe Stats</h3>
   <a href="https://tryhackme.com/p/Tharon">
-    <img src="https://tryhackme.com/Tharon/streak?sharerId=680faeb203abe916d51201e1" alt="TryHackMe Badge" />
+    <img width="700" height="362" alt="image" src="https://github.com/user-attachments/assets/d04d6c75-5dc6-42a3-a1fd-bcf5caedbf97" alt="TryHackMe Badge" />
   </a>
 </div>
 
