@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/Tharon23">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;Web+Pentesting+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player;WebApp+Pentesting;Security+Analyst" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  🎓 2nd-year Cybersecurity Student | 🛡️ Web App Pentesting and Red Teaming | 🚩 CTF Competitor
+  🎓 2nd-year Cybersecurity Student | 🛡️ Web App Pentesting and Security Analyst| 🚩 CTF Competitor
 </p>
 
 ---
